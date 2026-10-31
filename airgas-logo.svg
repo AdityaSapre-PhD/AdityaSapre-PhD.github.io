@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 220" role="img" aria-label="Airgas logo">
+  <rect width="500" height="220" rx="28" fill="#ffffff"/>
+  <g transform="translate(40,25)">
+    <text x="0" y="115" font-family="Arial, Helvetica, sans-serif" font-size="108" font-style="italic" font-weight="700" fill="#0d5fa7">Airgas</text>
+    <path d="M60 155 C135 177, 255 182, 360 160 C387 154, 408 146, 425 138" fill="none" stroke="#c1263a" stroke-width="14" stroke-linecap="round"/>
+    <circle cx="425" cy="138" r="5" fill="#c1263a"/>
+    <text x="382" y="71" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#0d5fa7">®</text>
+  </g>
+</svg>
