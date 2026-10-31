@@ -1,0 +1,1 @@
+Open index.html in a browser. Each navigation tab opens a different HTML page. All pages share styles.css. Publication image filenames were referenced in the source HTML but were not uploaded, so placeholders are used. To publish, upload the entire folder to a static web host such as GitHub Pages or Netlify.
